@@ -1,0 +1,3 @@
+# evolution: techtonik.1
+
+bash.shortcuts.ctrl+r --> https://github.com/dvorka/hstr/
