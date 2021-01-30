@@ -1,5 +1,8 @@
-An attempt to devise data format for storing evolution path
-for habits and ways to do things.
+The idea is to collect people choices for replacement of
+various commands in machine readable format.
+
+Using the data it will be possible analyze command history to
+propose lifehacks and time savers.
 
 ### problem
 
