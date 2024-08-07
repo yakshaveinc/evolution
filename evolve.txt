@@ -4,3 +4,4 @@ bash.shortcuts.ctrl+r --> https://github.com/dvorka/hstr/
 pip --> poetry
 virtualenv --> virtualenvwrapper
 virtualenv --> pipenv
+find --> https://github.com/sharkdp/fd
